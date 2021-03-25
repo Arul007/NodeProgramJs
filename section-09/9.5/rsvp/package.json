@@ -15,6 +15,6 @@
     "pkginfo": "*",
     "moment": "~2.0.0",
     "gravatar": "~1.0.6",
-    "mongoose": "~3.6.20"
+    "mongoose": "~5.12.2"
   }
 }
