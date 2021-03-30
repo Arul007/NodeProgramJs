@@ -4,7 +4,7 @@
   "description": "A demo app to demonstrate outdated dependencies.",
   "main": "index.js",
   "dependencies": {
-    "underscore": "~1.4.0",
+    "underscore": "~1.12.1",
     "mime": "1.2.7"
   },
   "author": "Joe Stanco"
