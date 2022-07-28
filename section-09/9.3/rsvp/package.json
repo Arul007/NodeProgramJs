@@ -13,6 +13,6 @@
     "express-partials": "~0.1.1",
     "ejs": "*",
     "pkginfo": "*",
-    "mongoose": "~3.6.20"
+    "mongoose": "~6.4.6"
   }
 }
